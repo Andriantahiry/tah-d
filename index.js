@@ -1,4 +1,4 @@
-// luxy.init();
+
 let menu = document.querySelector('.button-container');
 let trait = document.querySelector('.close');
 let items = document.querySelector('nav ul');
