@@ -10,6 +10,22 @@ body {
     overflow-x: hidden;
 }
 
+.loader {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 91919909;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: wait;
+
+    p {
+        color: white;
+    }
+}
+
 // fin loader
 
 
